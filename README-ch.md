@@ -1,6 +1,6 @@
 [English](README.md) | [简体中文](README-ch.md)
 
-Kitchen Disco 厨房迪斯科
+# Kitchen Disco 极乐厨房
 
 ## 启动步骤
 
