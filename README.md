@@ -1,5 +1,4 @@
-**English** | [简体中文](README.md)
-
+[English](README.md) | [简体中文](README-ch.md)
 # Kitchen Disco
 
 A hand-drawn, one-key rhythm cooking game. Follow the music and use the Space bar to chop, coat, stir, bake, and pipe cream, turning each beat into a cooking action.
