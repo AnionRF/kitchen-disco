@@ -1,6 +1,6 @@
 [English](README.md) | [简体中文](README-ch.md)
 
-Kitchen Disco
+# Kitchen Disco
 
 ## Getting Started
 
